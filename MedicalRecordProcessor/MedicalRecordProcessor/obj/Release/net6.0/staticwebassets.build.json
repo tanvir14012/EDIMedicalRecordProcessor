@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tymexVv4CkNxWghD39bE5orcEH41nN0icwCNvOr/LPo=",
+  "Source": "MedicalRecordProcessor",
+  "BasePath": "_content/MedicalRecordProcessor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

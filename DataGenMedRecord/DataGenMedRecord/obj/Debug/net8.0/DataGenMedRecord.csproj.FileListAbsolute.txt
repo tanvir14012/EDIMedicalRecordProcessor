@@ -1,0 +1,14 @@
+C:\Users\tanvi\Documents\Development Repos\.NET\MedicalRecordProcessor\DataGenMedRecord\DataGenMedRecord\bin\Debug\net8.0\DataGenMedRecord.exe
+C:\Users\tanvi\Documents\Development Repos\.NET\MedicalRecordProcessor\DataGenMedRecord\DataGenMedRecord\bin\Debug\net8.0\DataGenMedRecord.deps.json
+C:\Users\tanvi\Documents\Development Repos\.NET\MedicalRecordProcessor\DataGenMedRecord\DataGenMedRecord\bin\Debug\net8.0\DataGenMedRecord.runtimeconfig.json
+C:\Users\tanvi\Documents\Development Repos\.NET\MedicalRecordProcessor\DataGenMedRecord\DataGenMedRecord\bin\Debug\net8.0\DataGenMedRecord.dll
+C:\Users\tanvi\Documents\Development Repos\.NET\MedicalRecordProcessor\DataGenMedRecord\DataGenMedRecord\bin\Debug\net8.0\DataGenMedRecord.pdb
+C:\Users\tanvi\Documents\Development Repos\.NET\MedicalRecordProcessor\DataGenMedRecord\DataGenMedRecord\obj\Debug\net8.0\DataGenMedRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanvi\Documents\Development Repos\.NET\MedicalRecordProcessor\DataGenMedRecord\DataGenMedRecord\obj\Debug\net8.0\DataGenMedRecord.AssemblyInfoInputs.cache
+C:\Users\tanvi\Documents\Development Repos\.NET\MedicalRecordProcessor\DataGenMedRecord\DataGenMedRecord\obj\Debug\net8.0\DataGenMedRecord.AssemblyInfo.cs
+C:\Users\tanvi\Documents\Development Repos\.NET\MedicalRecordProcessor\DataGenMedRecord\DataGenMedRecord\obj\Debug\net8.0\DataGenMedRecord.csproj.CoreCompileInputs.cache
+C:\Users\tanvi\Documents\Development Repos\.NET\MedicalRecordProcessor\DataGenMedRecord\DataGenMedRecord\obj\Debug\net8.0\DataGenMedRecord.dll
+C:\Users\tanvi\Documents\Development Repos\.NET\MedicalRecordProcessor\DataGenMedRecord\DataGenMedRecord\obj\Debug\net8.0\refint\DataGenMedRecord.dll
+C:\Users\tanvi\Documents\Development Repos\.NET\MedicalRecordProcessor\DataGenMedRecord\DataGenMedRecord\obj\Debug\net8.0\DataGenMedRecord.pdb
+C:\Users\tanvi\Documents\Development Repos\.NET\MedicalRecordProcessor\DataGenMedRecord\DataGenMedRecord\obj\Debug\net8.0\DataGenMedRecord.genruntimeconfig.cache
+C:\Users\tanvi\Documents\Development Repos\.NET\MedicalRecordProcessor\DataGenMedRecord\DataGenMedRecord\obj\Debug\net8.0\ref\DataGenMedRecord.dll

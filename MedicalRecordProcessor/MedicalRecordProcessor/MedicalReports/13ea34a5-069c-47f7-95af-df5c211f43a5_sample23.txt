@@ -1,0 +1,4 @@
+0*ReportID*002
+1*H1129*CLM601*Accepted**
+1*H1519*CLM052*Rejected*E061*
+1*H1419*CLM023*Accepted**

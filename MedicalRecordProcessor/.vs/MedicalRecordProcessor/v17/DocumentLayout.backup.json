@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\medicalreports\\99c49b38-97a1-4bf4-bb52-fcc5a404522b_sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\medicalreports\\99c49b38-97a1-4bf4-bb52-fcc5a404522b_sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\medicalreports\\42db89a5-b3b7-4efb-a74b-7143c33ab977_sample2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\medicalreports\\42db89a5-b3b7-4efb-a74b-7143c33ab977_sample2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\medicalreports\\13ea34a5-069c-47f7-95af-df5c211f43a5_sample23.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\medicalreports\\13ea34a5-069c-47f7-95af-df5c211f43a5_sample23.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\models\\dto\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\models\\dto\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\models\\dto\\fileparseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\models\\dto\\fileparseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\models\\utility\\allowedextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\models\\utility\\allowedextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\models\\reportdetailserror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\models\\reportdetailserror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\models\\reportdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\models\\reportdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\models\\medicalreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\models\\medicalreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\controllers\\medicalreportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\controllers\\medicalreportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\factories\\medicalreportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\factories\\medicalreportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\services\\reportdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\services\\reportdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\services\\medicalreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\services\\medicalreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\services\\ireportdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\services\\ireportdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\services\\imedicalreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\services\\imedicalreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\factories\\imedicalreportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\factories\\imedicalreportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|c:\\users\\tanvi\\documents\\development repos\\.net\\medicalrecordprocessor\\medicalrecordprocessor\\medicalrecordprocessor\\migrations\\20230108050749_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DC6273-3FD8-4BAC-BF26-856E06C2DD41}|MedicalRecordProcessor\\MedicalRecordProcessor.csproj|solutionrelative:medicalrecordprocessor\\migrations\\20230108050749_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "99c49b38-97a1-4bf4-bb52-fcc5a404522b_sample.txt",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalReports\\99c49b38-97a1-4bf4-bb52-fcc5a404522b_sample.txt",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\MedicalReports\\99c49b38-97a1-4bf4-bb52-fcc5a404522b_sample.txt",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalReports\\99c49b38-97a1-4bf4-bb52-fcc5a404522b_sample.txt",
+              "RelativeToolTip": "MedicalRecordProcessor\\MedicalReports\\99c49b38-97a1-4bf4-bb52-fcc5a404522b_sample.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-27T12:53:33.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "42db89a5-b3b7-4efb-a74b-7143c33ab977_sample2.txt",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalReports\\42db89a5-b3b7-4efb-a74b-7143c33ab977_sample2.txt",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\MedicalReports\\42db89a5-b3b7-4efb-a74b-7143c33ab977_sample2.txt",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalReports\\42db89a5-b3b7-4efb-a74b-7143c33ab977_sample2.txt",
+              "RelativeToolTip": "MedicalRecordProcessor\\MedicalReports\\42db89a5-b3b7-4efb-a74b-7143c33ab977_sample2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-27T12:53:28.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "13ea34a5-069c-47f7-95af-df5c211f43a5_sample23.txt",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalReports\\13ea34a5-069c-47f7-95af-df5c211f43a5_sample23.txt",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\MedicalReports\\13ea34a5-069c-47f7-95af-df5c211f43a5_sample23.txt",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalReports\\13ea34a5-069c-47f7-95af-df5c211f43a5_sample23.txt",
+              "RelativeToolTip": "MedicalRecordProcessor\\MedicalReports\\13ea34a5-069c-47f7-95af-df5c211f43a5_sample23.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-27T12:53:15.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\appsettings.Development.json",
+              "RelativeToolTip": "MedicalRecordProcessor\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T12:41:47.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MedicalRecordProcessor\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T12:20:21.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\appsettings.json",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\appsettings.json",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\appsettings.json",
+              "RelativeToolTip": "MedicalRecordProcessor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T12:02:46.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AllowedExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Models\\Utility\\AllowedExtensions.cs",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\Models\\Utility\\AllowedExtensions.cs",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Models\\Utility\\AllowedExtensions.cs",
+              "RelativeToolTip": "MedicalRecordProcessor\\Models\\Utility\\AllowedExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:54:52.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MedicalReport.cs",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Models\\MedicalReport.cs",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\Models\\MedicalReport.cs",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Models\\MedicalReport.cs",
+              "RelativeToolTip": "MedicalRecordProcessor\\Models\\MedicalReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:53:16.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MedicalReportService.cs",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Services\\MedicalReportService.cs",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\Services\\MedicalReportService.cs",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Services\\MedicalReportService.cs",
+              "RelativeToolTip": "MedicalRecordProcessor\\Services\\MedicalReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:53:16.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MedicalReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Controllers\\MedicalReportsController.cs",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\Controllers\\MedicalReportsController.cs",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Controllers\\MedicalReportsController.cs",
+              "RelativeToolTip": "MedicalRecordProcessor\\Controllers\\MedicalReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:53:16.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IMedicalReportFactory.cs",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Factories\\IMedicalReportFactory.cs",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\Factories\\IMedicalReportFactory.cs",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Factories\\IMedicalReportFactory.cs",
+              "RelativeToolTip": "MedicalRecordProcessor\\Factories\\IMedicalReportFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:53:16.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\DataAccess\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\DataAccess\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\DataAccess\\AppDbContext.cs",
+              "RelativeToolTip": "MedicalRecordProcessor\\DataAccess\\AppDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:53:16.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportDetails.cs",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Models\\ReportDetails.cs",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\Models\\ReportDetails.cs",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Models\\ReportDetails.cs",
+              "RelativeToolTip": "MedicalRecordProcessor\\Models\\ReportDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:53:16.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReportDetailsService.cs",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Services\\ReportDetailsService.cs",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\Services\\ReportDetailsService.cs",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Services\\ReportDetailsService.cs",
+              "RelativeToolTip": "MedicalRecordProcessor\\Services\\ReportDetailsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:53:16.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IReportDetailsService.cs",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Services\\IReportDetailsService.cs",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\Services\\IReportDetailsService.cs",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Services\\IReportDetailsService.cs",
+              "RelativeToolTip": "MedicalRecordProcessor\\Services\\IReportDetailsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:53:16.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\Program.cs",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Program.cs",
+              "RelativeToolTip": "MedicalRecordProcessor\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:53:16.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MedicalReportFactory.cs",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Factories\\MedicalReportFactory.cs",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\Factories\\MedicalReportFactory.cs",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Factories\\MedicalReportFactory.cs",
+              "RelativeToolTip": "MedicalRecordProcessor\\Factories\\MedicalReportFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:53:16.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IMedicalReportService.cs",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Services\\IMedicalReportService.cs",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\Services\\IMedicalReportService.cs",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Services\\IMedicalReportService.cs",
+              "RelativeToolTip": "MedicalRecordProcessor\\Services\\IMedicalReportService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:53:16.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileUpload.cs",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Models\\Dto\\FileUpload.cs",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\Models\\Dto\\FileUpload.cs",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Models\\Dto\\FileUpload.cs",
+              "RelativeToolTip": "MedicalRecordProcessor\\Models\\Dto\\FileUpload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:53:16.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileParseResult.cs",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Models\\Dto\\FileParseResult.cs",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\Models\\Dto\\FileParseResult.cs",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Models\\Dto\\FileParseResult.cs",
+              "RelativeToolTip": "MedicalRecordProcessor\\Models\\Dto\\FileParseResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:53:16.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20230108050749_init.cs",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Migrations\\20230108050749_init.cs",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\Migrations\\20230108050749_init.cs",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Migrations\\20230108050749_init.cs",
+              "RelativeToolTip": "MedicalRecordProcessor\\Migrations\\20230108050749_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:53:16.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportDetailsError.cs",
+              "DocumentMoniker": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Models\\ReportDetailsError.cs",
+              "RelativeDocumentMoniker": "MedicalRecordProcessor\\Models\\ReportDetailsError.cs",
+              "ToolTip": "C:\\Users\\tanvi\\Documents\\Development Repos\\.NET\\MedicalRecordProcessor\\MedicalRecordProcessor\\MedicalRecordProcessor\\Models\\ReportDetailsError.cs",
+              "RelativeToolTip": "MedicalRecordProcessor\\Models\\ReportDetailsError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:53:16.469Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1499,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
